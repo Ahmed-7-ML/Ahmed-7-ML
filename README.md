@@ -9,61 +9,72 @@
 
 ## 🚀 About Me
 
-- 🤖 AI & Data Science Engineer passionate about building intelligent systems
-- 🧠 Specialized in Machine Learning, Deep Learning & LLM Applications
-- 📚 Currently diving deeper into RAG Systems, LLM Agents & AI Deployment
-- 🛠 Building real-world AI projects (not just notebooks 😉)
-- 🎯 Goal: Build scalable AI products that solve real problems
+- 🤖 AI & Data Science Engineer building intelligent systems
+- 🧠 Specialized in ML, Deep Learning & LLM Applications
+- 🔎 Focused on RAG Systems, AI Agents & Production AI
+- 🎯 Goal: Build scalable AI products that solve real-world problems
 
 ---
 
-## 🔥 Featured Projects
+## 🔗 Connect With Me
 
-### 🛡️ Real-Time Scene Description System
-> AI-powered system that generates safety-aware captions for visually impaired users.
-
-**Tech:** Python, Computer Vision, Transformers, Deployment
-
----
-
-### 📄 PDF Intelligence (RAG System)
-> Automated document Q&A system reducing manual review time by 80%.
-
-**Tech:** LangChain, ChromaDB, GPT, Semantic Search
-
----
-
-### 🤖 LLM Agents with ReAct Pattern
-> Implemented tool-using AI agents with reasoning + action capability.
-
-**Tech:** LangChain, ReAct, API Integration
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="YOUR_KAGGLE_LINK" target="blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+<a href="YOUR_WEBSITE_LINK" target="blank">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Tech Stack
 
-### 👨🏻‍💻 Programming
-- Python
-- SQL
-- C++
+### 👨🏻‍💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-### 🧠 AI & ML
-- Scikit-learn
-- TensorFlow / PyTorch
-- HuggingFace Transformers
-- LangChain
-- RAG Pipelines
-- Vector Databases (Chroma, FAISS)
+---
 
-### 🗄 Databases
-- PostgreSQL
-- MongoDB
+### 🤖 Machine Learning & AI
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-4B0082?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄 Databases & Vector Stores
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+</p>
+
+---
 
 ### ⚙️ Tools & DevOps
-- Docker
-- Git & GitHub
-- Linux
-- REST APIs
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -78,19 +89,11 @@
 
 ## 🎯 2026 Goals
 
-- 🔹 Publish production-ready AI projects
-- 🔹 Contribute to open-source AI tools
-- 🔹 Master LLM Systems & AI Architecture
-- 🔹 Land a strong AI Engineer position 🚀
+- 🚀 Publish production-ready AI systems
+- 🤝 Contribute to open-source AI tools
+- 🧠 Master LLM Architecture & AI Engineering
+- 💼 Land a strong AI Engineer position
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 🐙 GitHub: https://github.com/Ahmed-7-ML
-- 📧 Email: your-email@example.com
-
----
-
-> “Building AI that solves real-world problems.” 💡
+> Building AI that creates impact 🤖✨
