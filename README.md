@@ -1,78 +1,96 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
-  
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
-  - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
-  
-  #### 📫 How to reach me:
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
-  #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  
-  [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
+<h1 align="center">Hi 👋, I'm Ahmed Akram</h1>
+<h3 align="center">AI & Data Science Engineer | Machine Learning | LLM Systems</h3>
 
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1635.00  ┤                                                                                                 ╭╮
- 1624.50  ┤                                                                                                 ││
- 1614.00  ┤                                                                                        ╭╮   ╭╮  │╰
- 1603.50  ┤                                                                                       ╭╯╰───╯╰╮╭╯
- 1593.00  ┤                                                                                   ╭╮╭─╯       ││
- 1582.50  ┤                                                                                ╭╮╭╯╰╯         ╰╯
- 1572.00  ┤                        ╭╮                                                    ╭─╯╰╯
- 1561.50  ┤                       ╭╯╰╮╭╮                                    ╭╮╭╮╭╮      ╭╯
- 1551.00  ┤                  ╭────╯  ╰╯╰─╮     ╭╮              ╭╮  ╭╮    ╭──╯╰╯╰╯╰────╮╭╯
- 1540.50  ┤                ╭─╯           ╰╮  ╭─╯╰─╮         ╭╮╭╯╰╮╭╯╰╮  ╭╯            ╰╯
- 1530.00  ┤               ╭╯              ╰──╯    ╰─╮      ╭╯╰╯  ╰╯  ╰──╯
- 1519.50  ┤              ╭╯                         ╰╮   ╭─╯
- 1509.00  ┼─╮           ╭╯                           ╰─╮╭╯
- 1498.50  ┤ ╰─╮        ╭╯                              ╰╯
- 1488.00  ┤   ╰╮ ╭─────╯
- 1477.50  ┤    ╰─╯
- 1467.00  ┤
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-7-ML&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 
-Chart last updated - Sun Feb 22 07:07:39 EST 2026  
-  ```
-  
+---
 
-<!--
-**Ahmed-7-ML/Ahmed-7-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🤖 AI & Data Science Engineer passionate about building intelligent systems
+- 🧠 Specialized in Machine Learning, Deep Learning & LLM Applications
+- 📚 Currently diving deeper into RAG Systems, LLM Agents & AI Deployment
+- 🛠 Building real-world AI projects (not just notebooks 😉)
+- 🎯 Goal: Build scalable AI products that solve real problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Featured Projects
+
+### 🛡️ Real-Time Scene Description System
+> AI-powered system that generates safety-aware captions for visually impaired users.
+
+**Tech:** Python, Computer Vision, Transformers, Deployment
+
+---
+
+### 📄 PDF Intelligence (RAG System)
+> Automated document Q&A system reducing manual review time by 80%.
+
+**Tech:** LangChain, ChromaDB, GPT, Semantic Search
+
+---
+
+### 🤖 LLM Agents with ReAct Pattern
+> Implemented tool-using AI agents with reasoning + action capability.
+
+**Tech:** LangChain, ReAct, API Integration
+
+---
+
+## 🧰 Tech Stack
+
+### 👨🏻‍💻 Programming
+- Python
+- SQL
+- C++
+
+### 🧠 AI & ML
+- Scikit-learn
+- TensorFlow / PyTorch
+- HuggingFace Transformers
+- LangChain
+- RAG Pipelines
+- Vector Databases (Chroma, FAISS)
+
+### 🗄 Databases
+- PostgreSQL
+- MongoDB
+
+### ⚙️ Tools & DevOps
+- Docker
+- Git & GitHub
+- Linux
+- REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-7-ML&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-7-ML&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🔹 Publish production-ready AI projects
+- 🔹 Contribute to open-source AI tools
+- 🔹 Master LLM Systems & AI Architecture
+- 🔹 Land a strong AI Engineer position 🚀
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn Link]
+- 🐙 GitHub: https://github.com/Ahmed-7-ML
+- 📧 Email: your-email@example.com
+
+---
+
+> “Building AI that solves real-world problems.” 💡
