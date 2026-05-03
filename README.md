@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="3AI Logo(1).png" width="700"/>
+  <img src="ahmed_akram_amer_logo_desktop.svg" width="700"/>
 </p>
 
 <h1 align="center">Ahmed Akram Amer</h1>
